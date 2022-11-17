@@ -1,4 +1,4 @@
-[![Header](https://github.com/OlyaBelykh/OlyaBelykh/blob/main/assets/1205e8d248daace6d6b21ffb95c29334.jpg)](https://docs.google.com/document/d/1yBS33aAjdMhwzTZKAoTmYWyCuPSG7hTCKyeHLBjK48Q/edit?usp=Postman)
+[![Header](hhttps://github.com/OlyaBelykh/OlyaBelykh/blob/main/assets/Black%20%26%20Blue%20Modern%20Geometric%20Technology%20Youtube%20Intro.gif)](https://docs.google.com/document/d/1yBS33aAjdMhwzTZKAoTmYWyCuPSG7hTCKyeHLBjK48Q/edit?usp=Postman)
 
 I am a beginner QA Engeneer
 
