@@ -9,11 +9,8 @@ Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-083D77?style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-083D77?style=for-the-badge&logo=mysql)
 ![JMeter](https://img.shields.io/badge/-JMeter-083D77?style=for-the-badge&logo=ApacheJmeter)
-
 ![Git](https://img.shields.io/badge/-Git-083D77?style=for-the-badge&logo=Git)
 ![TestRail](https://img.shields.io/badge/-TestRail-083D77?style=for-the-badge&logo=TestRail)
-
-
 ![Jira](https://img.shields.io/badge/-Jira-083D77?style=for-the-badge&logo=Jira)
 ![Adobe](https://img.shields.io/badge/-Adobe-083D77?style=for-the-badge&logo=adobe)
 
