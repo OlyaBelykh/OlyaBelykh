@@ -20,5 +20,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-083D77?style=for-the-badge&logo=Instagram)](https://www.instagram.com/belyholga/)
 [![VK](https://img.shields.io/badge/-VK-083D77?style=for-the-badge&logo=VK)](https://vk.com/olgabelykh)
 [![Facebook](https://img.shields.io/badge/-Facebook-083D77?style=for-the-badge&logo=Facebook)](https://www.facebook.com/olga.belykh.1)
+[![Behance](https://img.shields.io/badge/-Behance-083D77?style=for-the-badge&logo=Behance)](hhttps://www.behance.net/art_olga)
 
 [picture]: https://github.com/OlyaBelykh/OlyaBelykh/blob/main/assets/1205e8d248daace6d6b21ffb95c29334.jpg
