@@ -24,4 +24,4 @@
 
 [picture]: https://github.com/OlyaBelykh/OlyaBelykh/blob/main/assets/1205e8d248daace6d6b21ffb95c29334.jpg
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/olyabelykh/github-readme-stats)
